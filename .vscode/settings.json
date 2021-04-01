@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "string_view": "c",
+        "array": "c",
+        "typeinfo": "c",
+        "cmath": "c"
+    }
+}
