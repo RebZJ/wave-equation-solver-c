@@ -1,0 +1,1 @@
+An implementation of solving wave equations (applications of shockwave) in C, using root finding algos (link newton-rhapson) and runge-kutta. Follow format of the specified (in) files to get the corresponding output 
